@@ -1,0 +1,14 @@
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\bin\Debug\net8.0\APLab8.exe
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\bin\Debug\net8.0\APLab8.deps.json
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\bin\Debug\net8.0\APLab8.runtimeconfig.json
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\bin\Debug\net8.0\APLab8.dll
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\bin\Debug\net8.0\APLab8.pdb
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\obj\Debug\net8.0\APLab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\obj\Debug\net8.0\APLab8.AssemblyInfoInputs.cache
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\obj\Debug\net8.0\APLab8.AssemblyInfo.cs
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\obj\Debug\net8.0\APLab8.csproj.CoreCompileInputs.cache
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\obj\Debug\net8.0\APLab8.dll
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\obj\Debug\net8.0\refint\APLab8.dll
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\obj\Debug\net8.0\APLab8.pdb
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\obj\Debug\net8.0\APLab8.genruntimeconfig.cache
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\APLab8\obj\Debug\net8.0\ref\APLab8.dll
